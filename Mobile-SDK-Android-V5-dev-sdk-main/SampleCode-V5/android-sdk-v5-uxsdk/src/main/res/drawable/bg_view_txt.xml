@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    tools:ignore="ResourceName">
+    <corners android:radius="@dimen/uxsdk_5_dp" /> <!-- Ajuste o raio conforme necessário -->
+    <solid android:color="@color/uxsdk_white" /> <!-- Cor de fundo do botão -->
+</shape>
