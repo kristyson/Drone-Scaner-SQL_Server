@@ -433,7 +433,7 @@ public class DefaultLayoutActivity extends AppCompatActivity {
         // Crie uma string de conexão JDBC para o SQL Server
         String DB_URL = "jdbc:jtds:sqlserver://10.0.0.148:1433/AdventureWorksDW2019";
         String DB_USER = "sa";
-        String DB_PASSWORD = "Kr1stys0n";
+        String DB_PASSWORD = "Kristyson";
 
         // Crie um objeto Connection para se conectar ao banco de dados
         try (Connection conn = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD)) {
